@@ -1,2 +1,4 @@
 はじめてのGit
 hennkou
+git add
+git commit
